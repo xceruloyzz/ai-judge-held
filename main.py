@@ -11,8 +11,8 @@ import os
 TEXT = (
     "You can set the scoreboard down now. The kettle is just coming "
     "to the boil, rain is tapping the window in no particular hurry, "
-    "and nothing in this small room needs you to decide anything. "
-    "Stay a while \u2014 the tea will still be warm."
+    "and nothing in this small room is waiting on a decision from you. "
+    "Stay a while. The tea will be warm whenever you reach for it."
 )
 
 
